@@ -63,6 +63,7 @@ parseSentence<-function(Sentence,Parameters=c("words","dep_paths","dep_parents")
         }
 
 # Account for actual phrases or numbersets with commas - e.g., "19,560,238" -> 19560238
+# I'd love to make this more efficient...
 trueCommas<-function(Words) {
         InsideQuotes<-gregexpr('"[^"]*"',Words)
         Phrases<-regmatches(Words, InsideQuotes)[[1]]
