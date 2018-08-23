@@ -136,14 +136,18 @@ colnames(ProperMatrix)<-c("docid","sentid","Proper")
 ProperMatrix<-subset(ProperMatrix,ProperMatrix[,"Proper"]!="NA")
 
 # Set directory for output
-CurrentDirectory<-getwd()
-setwd(paste0(CurrentDirectory,"/output"))
-    
+OutputPath<-paste0(getwd(),"/output")
+
+# Check if the output directory already exists
+if (!dir.exists(OutputPath)) {
+        dir.create(OutputPath)
+        }
+  
 # Clear any old output files
 unlink("*")
 
 # Write csv output files
-write.csv(ProperMatrix, "ProperMatrix.csv")
+write.csv(ProperMatrix, paste(OutputPath,"ProperMatrix.csv",sep="/"))
 
 # COMPLETE
 print(paste("Complete",Sys.time()))
