@@ -20,5 +20,5 @@ RScript ~/Path/usgs_geochron.R numcores
 
 You could presumably try this directly from the git repo without cloning - if you could get around the credentials issues.
 ````bash
-curl https://raw.githubusercontent.com/UW-Deepdive-Infrastructure/gdd_byod/master/application/usgs_geochron.R?token=AJ8JQ8tbDxqXA9HZKJyXFyud3JHWlVPfks5biG5bwA%3D%3D | RScript 4
+curl https://raw.githubusercontent.com/UW-Deepdive-Infrastructure/gdd_byod/master/application/usgs_geochron.R | RScript 4
 ````
