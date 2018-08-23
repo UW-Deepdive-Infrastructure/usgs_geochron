@@ -39,7 +39,7 @@ if (length(CommandArgument)==0) {
 print(paste("Load NLP tables from postgres",Sys.time()))
 
 # Download the config file
-Credentials<-as.matrix(read.table("Credentials.yml",row.names=1))
+Credentials<-as.matrix(read.table("/credentials/Credentials.yml",row.names=1))
 # Connect to PostgreSQL
 Driver <- dbDriver("PostgreSQL") # Establish database driver
 Connection <- dbConnect(Driver, dbname = Credentials["database:",], host = Credentials["host:",], port = Credentials["port:",], user = Credentials["user:",])
@@ -137,7 +137,7 @@ ProperMatrix<-subset(ProperMatrix,ProperMatrix[,"Proper"]!="NA")
 
 # Set directory for output
 CurrentDirectory<-getwd()
-setwd(paste(CurrentDirectory,"/output",sep=""))
+setwd(paste0(CurrentDirectory,"/output"))
     
 # Clear any old output files
 unlink("*")
