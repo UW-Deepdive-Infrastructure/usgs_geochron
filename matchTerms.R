@@ -1,6 +1,10 @@
-# Custom functions are camelCase. Arrays, parameters, and arguments are PascalCase
-# Dependency functions are not embedded in master functions, and are marked with the flag dependency in the documentation
-# []-notation is used wherever possible, and $-notation is avoided.
+# This script can be activated with the following shell command 
+# cd ~/[path]/radiocarbon && RScript matchTerms.R [cores]
+# [path] is the path the application directory
+# [cores] is the desired number of processors, default 3
+# The radiocarbon directory should have the matchTerms.R script, an input, and output directory
+# There should be a credential.yml file with credentials for the postgreSQL database
+# Of the subset of GDD documents in a table named public.sentences_nlp352
 
 ######################################### Load Required Libraries ###########################################
 # Save and print the app start time
@@ -42,7 +46,7 @@ Credentials<-as.matrix(read.table("Credentials.yml",row.names=1))
 Driver <- dbDriver("PostgreSQL") # Establish database driver
 Connection <- dbConnect(Driver, dbname = Credentials["database:",], host = Credentials["host:",], port = Credentials["port:",], user = Credentials["user:",])
 # Query the sentences from postgresql
-DeepDiveData<-dbGetQuery(Connection,"SELECT docid, sentid, words, poses, dep_paths, dep_parents FROM nlp_sentences_352")
+DeepDiveData<-dbGetQuery(Connection,"SELECT docid, sentid, words, poses, dep_paths, dep_parents FROM sentences_nlp352")
 
 # Load the dictionary
 Dictionary<-dbGetQuery(Connection,"SELECT * FROM radiocarbon_dictionary")
@@ -112,5 +116,5 @@ Terms<-apply(NewMatrix,1,function(x) paste(na.omit(x),collapse="|"))
 
 # Bind the terms array to the original data and subset to only matches
 Matches<-cbind(DeepDiveData,Terms)
-# Extract only stenences with a match
+# Extract only sentences with a match
 Matches<-subset(Matches,Matches[,"Terms"]!="")
