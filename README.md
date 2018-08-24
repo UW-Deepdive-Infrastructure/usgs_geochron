@@ -4,7 +4,7 @@ An example GeoDeepDive application.
 ## Application Requirements
 This GeoDeepDive application assumes the following:
 
-1. A [subset](/credentials/usgs_geochron_pilot.csv) of the GeoDeepDive corpus has already been defined. 
+1. A [subset](/credentials/usgs_geochron_pilot.csv) of the GeoDeepDive corpus has already been defined by the intersection of GeoDeepDive's [geochron dictionary](https://github.com/iross/geochron_dictionary) and geolocation terms included int **unlinked**.
 2. The StanfordCoreNLP V3.52 output for this subset exists in a PostgreSQL table `public.nlp_sentences_352`.
 3. That the credentials to connect to this PostgreSQL database are saved in a [Credentials.yml](/credentials/Credentials.yml) file.
 4. R version 3.4 or later is installed, and that the operating system is Unix-compatible (Linux, OSX).
