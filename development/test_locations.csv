@@ -1,0 +1,819 @@
+﻿wof_id,name
+101728211,White Mesa
+101728225,Mexican Hat
+101728123,Dammeron Valley
+101728121,Pine Valley
+101728223,Montezuma Creek
+101728235,Bluff
+101727615,Washington
+85927209,Squaw Valley
+85927273,Auberry
+85927227,Laton
+85974979,Beatty
+85924943,Midpines
+85924947,Greeley Hill
+85924977,Coultervillle
+85975053,Nelson
+85925659,Ahwahnee
+85925649,Bass Lake
+85921889,Livermore
+85921895,Hayward
+85975037,Sandy Valley
+85975017,Enterprise
+85922437,San Carlos
+85922471,Porterville
+85922427,South San Francisco
+85974799,North Las Vegas
+85919221,Oljato-Monument Valley
+85919227,Second Mesa
+85977075,Los Alamos
+85924159,Pajaro Dunes
+85976917,Chamita
+85976953,Chimayo
+85976925,Dixon
+85929989,Southern Ute
+85977193,Waterflow
+85977187,West Hammond
+85976507,Raton
+85925911,Camp Nelson
+85976583,Española
+85922965,Reedley
+85924367,Amesti
+85924315,Ben Lomond
+85976779,Arroyo Hondo
+85976783,Taos Pueblo
+85924797,Homewood Canyon
+85925391,San Martin
+85930435,Valdez
+85918935,Chinle
+85918939,Dennehotso
+85924865,Furnace Creek
+85924843,Lone Pine
+85924859,Valley Wells
+85918769,Meadview
+85976671,Farmington
+85976675,Aztec
+85977483,Tohatchi
+85919161,Chilchinbito
+85977213,Shiprock
+85977201,Cedar Hill
+85977211,Upper Fruitland
+85976869,La Jara
+85976841,San Luis
+85976885,Truchas
+85918667,Grand Canyon Village
+85918655,Kaibito
+85918673,Cameron
+85974897,Alamo
+85974801,Las Vegas
+85922389,Gilroy
+85929893,Piedra
+85917423,Fredonia
+85925507,Alum Rock
+85925635,Wilsonia
+85927253,Cantua Creek
+85927205,Tranquillity
+85977309,Jacona
+85974907,Silver Peak
+85977337,Jaconita
+85977317,Tesuque
+85977323,Santa Cruz
+85977313,Tesuque Pueblo
+85977363,Cundiyo
+85977349,El Rancho
+85977343,El Valle de Arroyo Seco
+85977301,Nambe
+85977329,La Puebla
+85977359,Chupadero
+85977355,Cuyamungue
+85977307,Cuyamungue Grant
+85977311,Peak Place
+85977319,Sombrillo
+85977327,Pojoaque
+85977325,Rio en Medio
+85977357,Cuartelez
+85927269,Biola
+85927263,Bowles
+85977321,San Ildefonso Pueblo
+85927279,West Park
+85927249,Caruthers
+85927217,Riverdale
+85927223,Raisin City
+85927213,Shaver Lake
+85927245,Del Rey
+85927259,Malaga
+85927241,Easton
+85927235,Friant
+85927231,Lanare
+85974909,Goldfield
+85974919,Dyer
+85974977,Pahrump
+85922509,Hillsborough
+85922537,Burlingame
+85922593,Seaside
+85922533,Colma
+85922515,Half Moon Bay
+85922543,Madera
+85922529,Daly City
+85922555,Belmont
+85922503,Menlo Park
+85922561,Atherton
+85922583,San Francisco
+85922519,Foster City
+85922525,East Palo Alto
+85922547,Chowchilla
+85922589,Soledad
+85922599,Sand City
+85922551,Brisbane
+85923259,Ripon
+85923255,Tracy
+85923299,Delano
+85918867,Cottonwood
+85918809,Beaver Dam
+85918863,Kaibab
+85918897,Red Rock
+85918801,Moccasin
+85918805,Cane Beds
+85918873,Del Muerto
+85924923,Hornitos
+85924933,Bear Valley
+85924981,Catheys Valley
+85924901,Norris Canyon
+85924973,El Portal
+85924995,Mariposa
+85924939,Wawona
+85924927,Lake Don Pedro
+85924951,Fish Camp
+85924991,Yosemite Valley
+85925109,Paradise
+85925101,Sunny Slopes
+85925105,Swall Meadows
+85925119,Chalfant
+85922763,Patterson
+85922753,San Juan Bautista
+85922781,Hughson
+85922771,Newman
+85922723,Waterford
+85922767,Oakdale
+85922759,Hollister
+85922785,Ceres
+85922777,Modesto
+85922731,Riverbank
+85922727,Turlock
+85923979,Dos Palos Y
+85923993,Winton
+85923985,Cressey
+85923989,Ballico
+85976497,Angel Fire
+85976499,Cimarron
+85926067,Boronda
+85926073,Aromas
+85924281,Live Oak
+85924271,Soquel
+85924243,Twin Lakes
+85924229,Davenport
+85924297,Felton
+85924285,Interlaken
+85924273,Rio del Mar
+85924225,Mount Hermon
+85924277,Pleasure Point
+85924221,La Selva Beach
+85924235,Brookdale
+85924239,Bonny Doon
+85924291,Freedom
+85925669,Rolling Hills
+85925609,Idlewild
+85925697,Yettem
+85925679,Fairmead
+85925665,Nipinnawasee
+85925653,Coarsegold
+85925693,Tooleville
+85925675,La Vina
+85925605,Rodriguez Camp
+85925687,Tonyville
+85925683,Teviston
+85925627,Pine Flat
+85925631,Linnell Camp
+85921863,Union City
+85921881,Oakland
+85921871,Pleasanton
+85921867,San Leandro
+85921849,Atwater
+85921845,Dos Palos
+85921841,Gustine
+85921899,Fremont
+85921885,Newark
+85921835,Livingston
+85921827,Merced
+85921831,Los Banos
+85975009,Blue Diamond
+85975013,Bunkerville
+85975033,Nellis AFB
+85975049,Whitney
+85975045,Sunrise Manor
+85975043,Summerlin South
+85975041,Spring Valley
+85975025,Moapa Town
+85975019,Goodsprings
+85975035,Paradise
+85975021,Indian Springs
+85975027,Moapa Valley
+85975051,Winchester
+85975031,Mount Charleston
+85922423,Woodside
+85922465,Tulare
+85922453,Portola Valley
+85922481,Farmersville
+85922441,San Bruno
+85922485,Exeter
+85922461,Visalia
+85922475,Lindsay
+85922447,Redwood City
+85922495,Pacifica
+85922457,Woodlake
+85922499,Millbrae
+85922491,Dinuba
+85922431,San Mateo
+85974773,Mesquite
+85974775,Caliente
+85919209,Keams Canyon
+85919217,Kykotsmovi Village
+85919201,Jeddito
+85919205,Kayenta
+85919225,Pinon
+85919235,Shongopovi
+85919239,Shonto
+85977093,Watrous
+85977073,White Rock
+85977091,Mora
+85926463,Parklawn
+85924155,Paradise Park
+85924165,Lompico
+85924127,Zayante
+85924151,Pasatiempo
+85924131,Seacliff
+85976909,San Jose
+85976923,Canjilon
+85976913,El Duende
+85976949,Santa Clara Pueblo
+85976933,Brazos
+85976915,Chili
+85976943,Los Ojos
+85976945,Dulce
+85976903,El Rito
+85976941,Gallina
+85976929,Cañones
+85976905,Coyote
+85976907,Cordova
+85976911,Hernandez
+85976939,Lumberton
+85976947,Ohkay Owingeh
+85976921,Canova
+85976935,Tierra Amarilla
+85976927,Abiquiu
+85976951,Alcalde
+85976931,Ensenada
+85929925,San Acacio
+85929981,Lewis
+85929995,Conejos
+85929971,Gerrard
+85929967,Alpine
+85929985,Towaoc
+85929911,Fort Garland
+85929999,Capulin
+85977197,Lake Valley
+85977185,Lee Acres
+85977195,Spencerville
+85977199,Young Place
+85977191,Blanco
+85922099,Bishop
+85976521,Des Moines
+85926497,Westley
+85925937,Three Rivers
+85925923,Woodville
+85925969,Orosi
+85925973,London
+85925965,Pixley
+85925933,Tipton
+85925915,California Hot Springs
+85925929,Traver
+85925959,Poplar-Cotton Center
+85925955,Richgrove
+85925941,Terra Bella
+85925901,Delft Colony
+85925905,Cedar Slope
+85925919,Allensworth
+85925947,Strathmore
+85925951,Springville
+85976509,Springer
+85976549,Taos
+85976553,Questa
+85976533,Grenville
+85976581,Chama
+85976571,Jemez Springs
+85976567,Cuba
+85976503,Maxwell
+85976501,Eagle Nest
+85976519,Folsom
+85976547,Taos Ski Valley
+85976551,Red River
+85976531,Clayton
+85922995,Fresno
+85922979,Mendota
+85922969,Parlier
+85922993,Huron
+85922961,Sanger
+85922987,Kerman
+85922975,Orange Cove
+85922983,Kingsburg
+85922957,San Joaquin
+85922999,Fowler
+85922951,Selma
+85924325,Aptos
+85924393,Bear Creek
+85924301,Day Valley
+85924307,Corralitos
+85924311,Boulder Creek
+85924319,Aptos Hills-Larkin Valley
+85924399,Volta
+85976733,Capulin
+85976797,San Cristobal
+85976781,Costilla
+85976785,Rio Lucio
+85976729,Ute Park
+85976787,Chamisal
+85976795,Ranchos de Taos
+85976777,Arroyo Seco
+85976773,Talpa
+85976789,Picuris Pueblo
+85976799,Vadito
+85976791,Peñasco
+85924517,Ashland
+85924505,Fairview
+85924507,Cherryland
+85924511,Castro Valley
+85928897,Monte Vista
+85928887,South Fork
+85928883,Center
+85928891,Del Norte
+85925863,Broadmoor
+85925849,Patterson Tract
+85925893,Hartland
+85925881,Kennedy Meadows
+85925859,Monson
+85925855,Panorama Heights
+85925837,El Granada
+85925823,Montara
+85925867,McClenney Tract
+85925815,Moss Beach
+85925897,East Tulare Villa
+85925845,Pierpoint
+85925803,Posey
+85925841,Plainview
+85925807,West Menlo Park
+85925887,El Rancho
+85925811,North Fair Oaks
+85925873,Matheny
+85925877,Lindcove
+85925827,Highlands-Baywood Park
+85925831,Emerald Lake Hills
+85923015,Clovis
+85923003,Firebaugh
+85923011,Coalinga
+85924709,Home Garden
+85924617,Darwin
+85924625,Big Pine
+85924621,Cartago
+85924705,Kettleman City
+85924713,Armona
+85918591,Valle
+85925399,Lexington Hills
+85925341,Oak Shores
+85925383,Stanford
+85925395,Loyola
+85927169,Calwa
+85927153,Big Creek
+85927187,Minkler
+85927173,Three Rocks
+85927181,Old Fig Garden
+85927191,Mayfair
+85927161,Sunnyside
+85927195,Fort Washington
+85927157,Monmouth
+85927177,Tarpey Village
+85927199,Centerville
+85925059,June Lake
+85925085,McGee Creek
+85925001,Bootjack
+85925095,Aspen Springs
+85925091,Crowley Lake
+85929167,Pagosa Springs
+85926165,San Lucas
+85926197,Prunedale
+85926155,Lockwood
+85926161,Spreckels
+85926151,Pine Canyon
+85926191,San Ardo
+85921909,Dublin
+85921923,Alameda
+85921955,Hanford
+85921951,Lemoore
+85919003,Steamboat
+85919007,Teec Nos Pos
+85919011,Tsaile
+85926301,Bret Harte
+85927839,Kernville
+85922113,Mammoth Lakes
+85922103,Corcoran
+85922107,Avenal
+85922121,San Ramon
+85927929,Wofford Heights
+85918981,Rock Point
+85918971,Nazlini
+85918967,Many Farms
+85930445,Weston
+85930413,Alamosa East
+85930449,Jansen
+85930453,Stonewall Gap
+85930457,El Moro
+85930439,Segundo
+85930427,Lynn
+85930431,Hoehne
+85918949,Ganado
+85918945,Fort Defiance
+85918929,Burnside
+85918985,Rough Rock
+85918907,Sehili
+85918957,Lukachukai
+85918975,Red Mesa
+85918989,Round Rock
+85918999,Sawmill
+85924883,Stratford
+85924817,Tecopa
+85924869,Dixon Lane-Meadow Creek
+85924849,Keeler
+85924831,Pearsonville
+85924855,Independence
+85924801,Trona
+85924805,Wilkerson
+85924887,Lemoore Station
+85924811,West Bishop
+85924873,Hardwick
+85924825,Round Valley
+85924877,Grangeville
+85924821,Shoshone
+85924835,Olancha
+85924839,Mesa
+85918723,Scenic
+85918765,White Hills
+85918719,Littlefield
+85918795,Centennial Park
+85929557,Kim
+85930021,Arboles
+85976639,Roy
+85925743,Waukena
+85976697,Santa Fe
+85976659,Wagon Mound
+85976641,Mosquero
+85976673,Bloomfield
+85925785,Seville
+85925749,Sultana
+85925753,Sugarloaf Saw Mill
+85925793,Poso Park
+85925771,La Honda
+85925797,Ponderosa
+85925779,Ladera
+85925767,Loma Mar
+85925715,Yosemite Lakes
+85925761,Silver City
+85925775,Pescadero
+85925725,Parksdale
+85925757,Sugarloaf Mountain Park
+85925721,Parkwood
+85925789,Sequoia Crest
+85925735,Madera Acres
+85925739,Bonadelle Ranchos-Madera Ranchos
+85925731,Oakhurst
+85926569,Denair
+85926515,Shackelford
+85926561,Empire
+85926525,Riverdale Park
+85926547,Keyes
+85926557,Grayson
+85926521,Salida
+85926551,Hickman
+85929553,Starkville
+85929571,Branson
+85929523,Walsenburg
+85929563,Cokedale
+85929549,Trinidad
+85929545,Alamosa
+85929541,Hooper
+85929575,Aguilar
+85929521,La Veta
+85977469,Nakaibito
+85977463,Brimhall Nizhoni
+85977471,Navajo
+85977473,Pueblo Pintado
+85919137,Hard Rock
+85919133,Low Mountain
+85919181,First Mesa
+85919197,Hotevilla-Bacavi
+85977237,Ojo Amarillo
+85977209,Navajo Dam
+85977217,Sanostee
+85977223,Naschitti
+85977215,Sheep Springs
+85977233,Flora Vista
+85977229,Nageezi
+85977203,La Plata
+85977205,North Light Plant
+85977219,Newcomb
+85977221,Nenahnezad
+85977235,Beclabito
+85977239,Kirtland
+85977227,Napi Headquarters
+85977231,Crystal
+85976881,Pueblito
+85976893,Youngsville
+85976859,Torreon
+85976897,La Mesilla
+85976843,La Cueva
+85976861,Regina
+85976887,Velarde
+85976895,Lyden
+85976889,Los Luceros
+85976899,La Madera
+85976891,La Villita
+85926489,Crows Landing
+85926493,West Modesto
+85926445,Ridgemark
+85926459,Cowan
+85926455,Monterey Park Tract
+85926441,Tres Pinos
+85926485,Diablo Grande
+85926473,Airport
+85926451,Rouse
+85918679,Bitter Springs
+85918623,Supai
+85918613,Tuba City
+85918649,LeChee
+85918693,Grand Canyon West
+85918641,Moenkopi
+85918619,Tonalea
+85974879,Rachel
+85974893,Beaverdam
+85974805,Boulder City
+85974803,Henderson
+85974887,Hiko
+85974891,Bennett Springs
+85921769,Santa Cruz
+85921763,Watsonville
+85921765,Scotts Valley
+85921771,Capitola
+85924009,Le Grand
+85924005,Planada
+85924013,Hilmar-Irwin
+85924001,South Dos Palos
+85924019,Delhi
+85922635,Del Rey Oaks
+85922639,Carmel-by-the-Sea
+85922617,Marina
+85922629,Gonzales
+85922603,Salinas
+85922607,Pacific Grove
+85922611,Monterey
+85922625,Greenfield
+85922621,King City
+85922337,Saratoga
+85922393,Cupertino
+85922333,Sunnyvale
+85922381,Los Altos Hills
+85922371,Milpitas
+85922367,Monte Sereno
+85922359,Morgan Hill
+85922355,Mountain View
+85922341,Santa Clara
+85922385,Los Altos
+85922375,Los Gatos
+85922347,San Jose
+85922399,Campbell
+85922351,Palo Alto
+85925497,Cambrian Park
+85925461,San Miguel
+85925487,Fruitdale
+85925473,Lake Nacimiento
+85925491,East Foothills
+85926293,Del Rio
+85926237,Las Lomas
+85926265,Bradley
+85926253,Chualar
+85926297,Bystrom
+85926243,Elkhorn
+85926201,Pajaro
+85926205,Moss Landing
+85926261,Carmel Valley Village
+85926247,Del Monte Forest
+85926257,Castroville
+85924417,Snelling
+85924429,Franklin
+85924403,University of California Merced
+85924407,Stevinson
+85924411,Tuttle
+85924425,McSwain
+85924495,Sunol
+85924421,Santa Nella
+85924499,San Lorenzo
+85924435,El Nido
+85928713,Searles Valley
+85928781,Blanca
+85928791,San Luis
+85917427,Page
+85917405,Colorado City
+85917439,Tusayan
+85928909,Cortez
+85928917,Dolores
+85928969,Sanford
+85928963,Romeo
+85928945,Ignacio
+85928959,Manassa
+85928955,La Jara
+85925577,Ducor
+85928977,Rico
+85928921,Mancos
+85928935,Bayfield
+85928939,Durango
+85925569,East Orosi
+85925563,East Porterville
+85928951,Antonito
+85925581,Cutler
+85925591,West Goshen
+85925587,Alpaugh
+85925559,Goshen
+85925555,Ivanhoe
+85925573,Earlimart
+85925501,Burbank
+85925599,Sugarloaf Village
+85925551,Lemon Cove
+101728213,Tselakai Dezza
+101728229,Halls Crossing
+101728219,Oljato-Monument Valley
+101728221,Navajo Mountain
+101728141,Beryl Junction
+101728129,Central
+101728127,Veyo
+101728231,Halchita
+101728237,Aneth
+101728145,Newcastle
+101727611,Toquerville
+101727631,Hurricane
+101727529,Glendale
+101727683,Enoch
+101727623,New Harmony
+101727685,Cedar City
+101727619,Rockville
+101727613,Springdale
+101727627,Leeds
+101727769,Cannonville
+101727609,Virgin
+101727679,Kanarraville
+101727629,La Verkin
+101727759,Bryce Canyon City
+101727775,Hatch
+101727767,Tropic
+101727527,Big Water
+101727635,Enterprise
+101727533,Kanab
+101727625,Santa Clara
+101727687,Brian Head
+101727633,Hildale
+101727641,Apple Valley
+101727777,Henrieville
+101727617,St. George
+101727763,Escalante
+101727637,Ivins
+101727979,Blanding
+101727537,Alton
+101727535,Orderville
+102083383,Conejos
+102087427,Mohave
+102087579,San Francisco
+102087429,Apache
+102085231,Rio Grande
+102084079,Costilla
+102084019,La Plata
+102084133,Alamosa
+102084341,Mariposa
+102084049,Bent
+102084103,Mineral
+102085223,Saguache
+102085237,Baca
+102081583,Mora
+102083575,San Benito
+102087583,Kings
+102087577,Inyo
+102087581,Santa Cruz
+102087591,Merced
+102083579,Stanislaus
+102083551,Iron
+102083357,Las Animas
+102084099,Montezuma
+102082879,Washington
+102082895,Tulare
+102082891,Madera
+102082609,Nye
+102084015,Otero
+102084331,Garfield
+102084347,Fresno
+102081529,Esmeralda
+102081569,Sandoval
+102081565,San Miguel
+102081193,Colfax
+102081137,Navajo
+102081197,Los Alamos
+102081171,San Juan
+102081563,Rio Arriba
+102081571,Santa Fe
+102085233,Pueblo
+102085385,San Luis Obispo
+102085393,San Joaquin
+102085257,Hinsdale
+102081585,Union
+102085387,San Mateo
+102085229,Dolores
+102085395,San Bernardino
+102081549,Lincoln
+102081579,McKinley
+102081673,Santa Clara
+102081181,Taos
+102081191,Quay
+102081727,Kern
+102081553,Clark
+102081145,Harding
+102086831,Coconino
+102083549,Kane
+102086879,Huerfano
+102086131,Archuleta
+102086119,San Juan
+102086943,San Juan
+102086959,Alameda
+102080857,Mono
+102080859,Monterey
+102086939,Tuolumne
+102086225,Contra Costa
+P1,Lone Mesa State Park
+P2,Portola Redwoods State Park
+P3,Fort Ord Dunes State Park
+P4,Sugarite Canyon State Park
+P5,El Vado Lake State Park
+P6,Great Valley Grasslands State Park
+P7,Julia Pfeiffer Burns State Park
+P8,Mancos State Park
+P9,Valley of Fire State Park
+P10,Lone Mesa State Park - Lone Mesa - Redd Ranch
+P11,Morphy Lake State Park
+P12,Thornton Beach State Beach
+P13,Lone Mesa State Park - Lone Mesa II Ranch / Colorado Landscapes Legacy
+P14,San Luis State Park
+P15,Coral Pink Sand Dunes State Park
+P16,Cimarron Canyon State Park
+P17,Henry W. Coe State Park
+P18,Eagle Nest Lake State Park
+P19,Edge of the Cedars State Park
+P20,Wilder Ranch State Park
+P21,Gunlock State Park
+P22,Iron Mission State Park
+P23,Butano State Park
+P24,Castle Rock State Park
+P25,Beaver Dam State Park
+P26,Heron Lake State Park
+P27,Snow Canyon State Park
+P28,Cascade Ranch Unit - Ano Nuevo State Park
+P29,Coyote Creek State Park
+P30,Clayton Lake State Park
+P31,Limekiln State Park
+P32,Lathrop State Park
+P33,Garrapata State Park
+P34,Pfeiffer Big Sur State Park
+P35,Trinidad Lake State Park
+P36,Henry Cowell Redwoods State Park
+P37,Hyde Memorial State Park
+P38,Big Basin Redwoods State Park
+P39,Quail Creek State Park
+P40,The Forest of Nisene Marks State Park
+P41,Kodachrome Basin State Park
+P42,Andrew Molera State Park
+P43,Julia Pfeiffer Burns State Park Underwater Park
+P44,Caswell Memorial State Park
+P45,Pacheco State Park
+P46,Big Basin Redwoods SP
+P47,Fremont Peak State Park
+P48,Sand Hollow State Park
+P49,Goosenecks State Park
+P50,San Bruno Mountain State Park
+P51,Chicosa Lake State Park
+P52,Kershaw-Ryan State Park
+P53,San Simeon State Park
+P54,Floyd Lamb State Park
+P55,Navajo Lake State Park
+P56,Lone Mesa State Park - Lone Mesa - Adams Ranch
