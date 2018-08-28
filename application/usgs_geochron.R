@@ -52,17 +52,17 @@ if (length(CommandArgument)==0) {
 print(paste("Load NLP tables from postgres",Sys.time()))
 
 # Download the config file
-Credentials<-as.matrix(read.table("/credentials/Credentials.yml",row.names=1))
+Credentials<-as.matrix(read.table("./credentials/Credentials.yml",row.names=1))
 # Connect to PostgreSQL
 Driver <- dbDriver("PostgreSQL") # Establish database driver
-Connection <- dbConnect(Driver, dbname = Credentials["database:",], host = Credentials["host:",], port = Credentials["port:",], user = Credentials["user:",])
+Connection <- dbConnect(Driver, dbname = Credentials["database:",], host = Credentials["host:",], port = Credentials["port:",], user = Credentials["user:",], password = Credentials["password:",])
 # Query the sentences fro postgresql
 DeepDiveData<-dbGetQuery(Connection,"SELECT docid, sentid, words, poses, dep_paths, dep_parents FROM nlp_sentences_352")
 
 #############################################################################################################
 ###################################### NNP CLUSTER FUNCTIONS, GEODEEPDIVE ###################################
 #############################################################################################################
-# No sentences at this time.
+# No functions at this time.
 
 ######################################## NNP CLUSTER SCRIPT, GEODEEPDIVE ####################################
 # Print the current stats to terminal
@@ -85,9 +85,6 @@ print(paste("Extraction complete. Writing output",Sys.time()))
 # Collapse the list into a character matrix
 ProperMatrix<-na.omit(do.call(rbind,ProperList))
 
-# Remove the "NA"'s
-ProperMatrix<-subset(ProperMatrix,ProperMatrix[,"NNP"]!=NA)
-
 # Set directory for output
 OutputPath<-paste0(getwd(),"/output")
 
@@ -97,7 +94,7 @@ if (!dir.exists(OutputPath)) {
         }
   
 # Write csv output files
-write.csv(ProperMatrix, paste(OutputPath,"ProperMatrix.csv",sep="/"))
+write.csv(ProperMatrix, paste(OutputPath,"ProperMatrix.csv",sep="/"),row.names=FALSE)
 
 # COMPLETE
 print(paste("Application Complete",Sys.time()))
