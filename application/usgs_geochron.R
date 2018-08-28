@@ -86,7 +86,7 @@ print(paste("Extraction complete. Writing output",Sys.time()))
 ProperMatrix<-na.omit(do.call(rbind,ProperList))
 
 # Remove the "NA"'s
-ProperMatrix<-subset(ProperMatrix,ProperMatrix[,"NNP"]!="NA")
+ProperMatrix<-subset(ProperMatrix,ProperMatrix[,"NNP"]!=NA)
 
 # Set directory for output
 OutputPath<-paste0(getwd(),"/output")
